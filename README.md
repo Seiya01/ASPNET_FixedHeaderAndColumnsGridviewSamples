@@ -9,10 +9,10 @@ Sample code to fix whitch header or columns of System.Web.UI.WebControls.GridVie
 Three types of plugins
 -----------------------
 "jquery.tablefix_1.0.0.js":
-reference http://www.otchy.net/javascript/tablefix/
+reference
+http://www.otchy.net/javascript/tablefix/
 
 "Grid.js ":
-
 "superTables.js":
 reference Matt's 411
 http://www.matts411.com/post/grid/
