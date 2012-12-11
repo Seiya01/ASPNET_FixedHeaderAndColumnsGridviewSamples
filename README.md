@@ -4,7 +4,7 @@ sample code using the "Grid.js ", "superTables.js", "jquery.tablefix_1.0.0.js"
 
 .net Solusion
 --------------
-Sample code to fix whitch header or columns of System.Web.UI.WebControls.GridView.
+Sample code to fix which header or columns of System.Web.UI.WebControls.GridView.
 
 Three types of plugins
 -----------------------
